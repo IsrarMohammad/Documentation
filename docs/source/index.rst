@@ -21,5 +21,5 @@ Contents
    usage
    api
    loginpage
-
    registerpage
+   roommanagementpage
