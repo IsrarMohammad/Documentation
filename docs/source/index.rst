@@ -25,4 +25,5 @@ Contents
    roommanagementpage
    Availability
    enetrRooms
+   meetingnotes
    
