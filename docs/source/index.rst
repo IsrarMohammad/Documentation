@@ -26,4 +26,5 @@ Contents
    Availability
    enetrRooms
    meetingnotes
+   landingpage
    
