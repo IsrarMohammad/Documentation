@@ -23,3 +23,5 @@ Contents
    loginpage
    registerpage
    roommanagementpage
+   Availability
+   
