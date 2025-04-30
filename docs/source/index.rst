@@ -24,4 +24,5 @@ Contents
    registerpage
    roommanagementpage
    Availability
+   enetrRooms
    
